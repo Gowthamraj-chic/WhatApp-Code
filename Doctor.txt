@@ -1,0 +1,43 @@
+SMS
+
+Relocation NewRelocationTicket Create Cancel-----FE Pass
+Relocation NewRelocationTicket CryoBeaconDetails-----FE Pass
+Relocation NewRelocationTicket CreateTicket-----FE Pass
+Relocation SelectLocation WithoutDestination ChooseRobot------FE Pass
+Relocation NewRelocationTicket CurrentSite DestinationSite------FE Pass
+Relocation Flightboard InprogressTickets------FE Pass
+Relocation From NonTMRWLocation To Biorepo---FE Pass
+Flightboard Relocation Menu SupportPhnNumber UK------FE Pass
+Relocation From NonTMRWLocation To Robot------FE Pass
+Relocation InProgress Ticket ReplaceCryobeacon---SKIP
+Relocation BatchTicket Retrieve Create View-----FE Pass
+Relocation NewRelocationTicket CreateTicket View-----FE Pass
+Relocation AddRelocationTicket Cancel-----FE Pass
+Date And Time Date Range----FE Pass
+Appointment Next 30Days
+Settings User Create Existing Email Validation-----FE Fail(Bug)
+NewTicket SingleImport Oocyte Add Existing Rules Unscreened-----FE Pass
+BatchTicket Store More Than One ticket----FE Pass
+BatchTicket Store Create Import Batch Ticket------FE Pass
+LockedUser ResetPassword----FE Pass
+Embryologist Users Access-----FE Pass
+Login NonAdmin AdminOption-----FE Pass
+NewTicket Freeze Specimen NewBeacon Future---FE Pass
+Biorepository TicketSummary UI---FE Pass
+Biorepository SelectPatient UI---FE Pass
+Biorepository SelectCryoBeacons UI----FE Pass
+Patient Import Oocyte ViewSpecimen Details-----FE Pass
+ForgetPassword UI----FE Pass
+NewTicket Freeze UpdateInventory NotPresent ScanCryolabel-----FE Pass
+FlightBoard Menu PrivacyPolicy-----FE Pass
+NewTicket Import NonTMRWLocation CreateTicket UpdateLocationAddress-----FE Pass
+Patient View Embryo View Details----FE Pass
+
+
+
+EMR
+
+EMR Relocation NewRelocationTicket CryoBeaconDetails
+EMR Relocation NewRelocationTicket CreateTicket View
+EMR Relocation NewRelocationTicket Create Cancel
+EMR Relocation NewRelocationTicket CreateTicket
